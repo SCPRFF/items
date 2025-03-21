@@ -12,6 +12,10 @@
     background-color: #f1aaff;
     opacity: 100%;
 }
+#data-output {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
 footer {
     position: fixed;
     left: 0;
@@ -30,6 +34,7 @@ header {
     color: white;
     text-align: center;
     font-size: large;
+    z-index: 99999;
 }
 header a {
     color: #bbbbff;
@@ -228,4 +233,205 @@ html {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+    #all {
+        position: absolute;
+        left: 10px;
+        top: 30px;
+        padding: 5px;
+        background-color: #aabbff;
+        border-radius: 10px;
+        text-decoration: none;
+        opacity: 50%;
+        scale: 70%
+    }
+    #all:hover {
+        background-color: #f1aaff;
+        opacity: 100%;
+    }
+    
+    #img1{
+        position: absolute;
+        top: 40px;
+        width: 200px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #quality1{
+        position: absolute;
+        top: 260px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #name1{
+        position:absolute;
+        top: 280px;
+        font-size: 120%;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #price1{
+        position:absolute;
+        top: 355px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #type1{
+        position:absolute;
+        top: 320px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #for1{
+        position:absolute;
+        top: 340px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #btn1{
+        display: none;
+    }
+    
+    /*Object 2*/
+    
+    #img2{
+        position: absolute;
+        top: 400px;
+        width: 200px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #quality2{
+        position:absolute;
+        top: 640px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #name2{
+        position:absolute;
+        top: 660px;
+        font-size: 120%;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #price2{
+        position:absolute;
+        top: 745px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #type2{
+        position:absolute;
+        top: 695px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #for2{
+        position:absolute;
+        top: 720px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #btn2{
+        display: none;
+    }
+    
+    /*Object 3*/
+    
+    #img3{
+        position: absolute;
+        top: 780px;
+        width: 200px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #quality3{
+        position:absolute;
+        top: 990px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #name3{
+        position:absolute;
+        top: 1020px;
+        font-size: 120%;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #price3{
+        position:absolute;
+        top: 1100px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #type3{
+        position:absolute;
+        top: 1040px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #for3{
+        position:absolute;
+        top: 1060px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #btn3{
+        position:absolute;
+        top: 1160px;
+        opacity: 0%;
+    }
 }
