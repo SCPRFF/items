@@ -21,7 +21,7 @@ fetch("actual_3.json")
                             <span id="type${index + 1}">${tested.type}</span>
                             <span id="quality${index + 1}">${tested.quality}</span>
                             <span id="for${index + 1}">${tested.for}</span>
-                            <button id="btn${index + 1}">Buy in-game</button>
+                            <button onclick="launchSteamGame()" id="btn${index + 1}">Buy in-game</button>
                         </div>
                     `;
                 });
