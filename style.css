@@ -1,0 +1,231 @@
+#all {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+    padding: 5px;
+    background-color: #aabbff;
+    border-radius: 10px;
+    text-decoration: none;
+    opacity: 50%;
+}
+#all:hover {
+    background-color: #f1aaff;
+    opacity: 100%;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(65, 10, 10);
+    color: white;
+    text-align: center;
+}
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: rgb(65, 10, 10);
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+header a {
+    color: #bbbbff;
+    text-decoration: none;
+}
+html {
+    text-align: center;
+    color: white;
+    background-color: #040408;
+}
+#img1{
+    position: absolute;
+    top: 14%;
+    left: 15%;
+    width: 20%;
+}
+#quality1{
+    position:absolute;
+    top: 59%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#name1{
+    position:absolute;
+    top: 63%;
+    font-size: 120%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#price1{
+    position:absolute;
+    top: 82%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#type1{
+    position:absolute;
+    top: 67%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#for1{
+    position:absolute;
+    top: 72%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#btn1{
+    position:absolute;
+    top: 78%;
+    left:17%;
+    right: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/*Object 2*/
+
+#img2{
+    position: absolute;
+    top: 14%;
+    left: 38%;
+    width: 20%;
+}
+#quality2{
+    position:absolute;
+    top: 59%;
+    left:32%;
+    right: 37%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#name2{
+    position:absolute;
+    top: 63%;
+    font-size: 120%;
+    left: 32%;
+    right: 37%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#price2{
+    position:absolute;
+    top: 82%;
+    left: 32%;
+    right: 37%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#type2{
+    position:absolute;
+    top: 67%;
+    left: 32%;
+    right: 37%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#for2{
+    position:absolute;
+    top: 72%;
+    left: 32%;
+    right: 37%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#btn2{
+    position:absolute;
+    top: 78%;
+    left: 41%;
+    right: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/*Object 3*/
+
+#img3{
+    position: absolute;
+    top: 14%;
+    left: 61%;
+    width: 20%;
+}
+#quality3{
+    position:absolute;
+    top: 59%;
+    left:62%;
+    right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#name3{
+    position:absolute;
+    top: 63%;
+    font-size: 120%;
+    left: 62%;
+    right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#price3{
+    position:absolute;
+    top: 82%;
+    left: 62%;
+    right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#type3{
+    position:absolute;
+    top: 67%;
+    left: 62%;
+    right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#for3{
+    position:absolute;
+    top: 72%;
+    left: 62%;
+    right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#btn3{
+    position:absolute;
+    top: 78%;
+    left: 65%;
+    right: 21%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
