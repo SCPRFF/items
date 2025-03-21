@@ -9,7 +9,7 @@ fetch("test.json")
         out += `
             <tr>
                 <td>${tested.id}</td>
-                <td> <img src='${tested.image}'> </td>
+                <td> <img src='${tested.image}' style="height:40px"> </td>
                 <td>${tested.name}</td>
                 <td>${tested.price}</td>
                 <td>${tested.type}</td>
