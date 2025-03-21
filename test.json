@@ -1,47 +1,56 @@
 [
     {
-        "id": "ID_Test1",
-        "image": "https://i.ytimg.com/an_webp/DG4obitDvUA/mqdefault_6s.webp?du=3000&sqp=CMC99L4G&rs=AOn4CLAsukWSVw-o6L3I01rC4KyUxj1a6Q",
-        "name": "Test 1",
-        "price": 200,
-        "type": "hat",
-        "quality": "good",
+        "id": "ID_MangoMan",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/mangoman.png?raw=true",
+        "name": "Mango Man",
+        "price": 0,
+        "type": "Hat",
+        "quality": "Apollyon",
         "for": "Normal size Humans"
     },
     {
-        "id": "ID_AnotherTest",
-        "image": "https://yt3.ggpht.com/08mdaCd7GKA2Z0fRwlIQ-KhTV9-dqlFf-M080fqSooiw-80NvTAkK7Ho9QdQa6vLo4NDdlLNiA=s48-c-k-c0x00ffffff-no-rj",
-        "name": "Another test omg",
-        "price": 200,
-        "type": "hat",
-        "quality": "good",
-        "for": "Normal size Humans"
+        "id": "ID_SantaHat",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/santahat.png?raw=true",
+        "name": "Santa's Hat",
+        "price": 100,
+        "type": "Hat",
+        "quality": "Confidential",
+        "for": "SCP-106"
     },
     {
-        "id": "ID_Test3",
-        "image": "https://yt3.ggpht.com/08mdaCd7GKA2Z0fRwlIQ-KhTV9-dqlFf-M080fqSooiw-80NvTAkK7Ho9QdQa6vLo4NDdlLNiA=s48-c-k-c0x00ffffff-no-rj",
-        "name": "Test 3",
+        "id": "ID_049Mask",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/049mask.png?raw=true",
+        "name": "SCP-049 mask",
         "price": 500,
-        "type": "Texture",
-        "quality": "Top",
+        "type": "Hat",
+        "quality": "SCP | Top Secret",
         "for": "Normal size Humans"
     },
     {
-        "id": "ID_AnotherTest4",
-        "image": "https://i.ytimg.com/an_webp/DG4obitDvUA/mqdefault_6s.webp?du=3000&sqp=CMC99L4G&rs=AOn4CLAsukWSVw-o6L3I01rC4KyUxj1a6Q",
-        "name": "Another test but is the fourth",
-        "price": 300,
-        "type": "hat",
-        "quality": "good",
-        "for": "Normal size Humans"
+        "id": "ID_TopHat",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/tophat.png?raw=true",
+        "name": "Top Hat",
+        "price": 100,
+        "type": "Hat",
+        "quality": "Confidential",
+        "for": "Guard and SCP-106"
     },
     {
-        "id": "ID_NotATestName",
-        "image": "https://i.ytimg.com/an_webp/DG4obitDvUA/mqdefault_6s.webp?du=3000&sqp=CMC99L4G&rs=AOn4CLAsukWSVw-o6L3I01rC4KyUxj1a6Q",
-        "name": "Not a test name cuz there're to many",
-        "price": 300,
-        "type": "chest",
-        "quality": "good",
-        "for": "Normal size Humans"
+        "id": "ID_MexHat",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/MexHat.png?raw=true",
+        "name": "Sombrero mexicano",
+        "price": 200,
+        "type": "Hat",
+        "quality": "Restricted",
+        "for": "Normal Size Humans"
+    },
+    {
+        "id": "ID_Glasses_106",
+        "image": "https://github.com/SCPRFF/rff_sh_images/blob/main/glasses_106.png?raw=true",
+        "name": "SCP-106's Glasses",
+        "price": 100,
+        "type": "Hat",
+        "quality": "Confidential",
+        "for": "SCP-106"
     }
 ]
