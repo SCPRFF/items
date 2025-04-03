@@ -52,5 +52,50 @@
         "type": "Hat",
         "quality": "Confidential",
         "for": "SCP-106"
+    },
+    {
+        "id": "ID_DMB_Hat",
+        "image": " ",
+        "name": "Dumb hat",
+        "price": 0,
+        "type": "Hat",
+        "quality": "Common",
+        "for": "Normal Size Humans"
+    },
+    {
+        "id": "ID_Party_Hat",
+        "image": " ",
+        "name": "Party hat! :D",
+        "price": 0,
+        "type": "Hat",
+        "quality": "Common",
+        "for": "Normal Size Humans"
+    },
+    {
+        "id": "ID_PinkParty_Hat",
+        "image": " ",
+        "name": "Pink Party :O",
+        "price": 100,
+        "type": "Hat",
+        "quality": "Confidential",
+        "for": "Normal Size Humans"
+    },
+    {
+        "id": "ID_StickHat",
+        "image": " ",
+        "name": "Stick",
+        "price": 0,
+        "type": "Hat",
+        "quality": "Common",
+        "for": "Normal Size Humans"
+    },
+    {
+        "id": "ID_NothingHat",
+        "image": " ",
+        "name": "Nothing",
+        "price": 0,
+        "type": "Hat",
+        "quality": "Common",
+        "for": "Normal Size Humans"
     }
 ]
